@@ -1,1 +1,1 @@
-A FIFA Worldcup tournament DATABASE using postgresql database in bash terminals.
+A FIFA Worldcup tournament DATABASE using PostgreSQL in bash terminal.
